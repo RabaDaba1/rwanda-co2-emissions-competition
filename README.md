@@ -12,4 +12,4 @@ My submission scored in the **top 15%** of all submissions on the leaderboard wi
 
 ## Kaggle Competition
 
-The competition can be found [here](https://www.kaggle.com/competitions/playground-series-s3e120).
+The competition can be found [here](https://www.kaggle.com/competitions/playground-series-s3e20).
