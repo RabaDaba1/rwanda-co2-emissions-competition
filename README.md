@@ -4,7 +4,7 @@ This repository contains my [submission](https://www.kaggle.com/code/kacperrabcz
 
 ## Contents
 
-- `rwanda-co2-emissions-competition.ipynb`: Jupyter notebook containing my analysis and modeling code.
+- `rwanda-co2-defeat-global-warming.ipynb`: Jupyter notebook containing my analysis and modeling code.
 
 ## Results
 
