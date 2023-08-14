@@ -8,7 +8,7 @@ This repository contains my [submission](https://www.kaggle.com/code/kacperrabcz
 
 ## Results
 
-Competition pending...
+Competition is ongoing...
 
 ## Kaggle Competition
 
