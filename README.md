@@ -8,7 +8,7 @@ This repository contains my [submission](https://www.kaggle.com/code/kacperrabcz
 
 ## Results
 
-Competition is ongoing...
+This submission got me 185th place out of 1440 participants which puts me at **top 13%**.
 
 ## Kaggle Competition
 
