@@ -8,7 +8,7 @@ This repository contains my [submission](https://www.kaggle.com/code/kacperrabcz
 
 ## Results
 
-This submission got me 185th place out of 1440 participants which puts me at the **top 13%**. It is also worth mentioning that this notebook is **2nd most voted** out of over 346 other notebooks in this competion!
+This submission got me 185th place out of 1440 participants which puts me at the **top 13%**. It is also worth mentioning that this notebook is **2nd most voted** out of over 346 other notebooks in this competion which I am very proud of!
 
 ## Kaggle Competition
 
